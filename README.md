@@ -97,39 +97,7 @@ This demystifies AI. It reveals that:
 ## Project Structure
 
 The Lineage project is organized into interconnected chapters, each representing a necessary stage in the evolution of modern AI:
-
-1. **Classical (Old) Artificial Intelligence**
-   Symbolic reasoning, rule-based systems, expert systems, and the rational-agent abstraction.
-
-2. **Mathematics**
-   Formal foundations: state, action, transition systems, optimization, and abstraction.
-
-3. **Statistics**
-   Uncertainty, inference, probabilistic reasoning, and decision theory.
-
-4. **Machine Learning**
-   The transition from hand-designed rules to data-driven models.
-
-5. **Neural Networks**
-   Differentiable modeling, representation learning, and deep architectures.
-
-6. **Language Models**
-   From sequence modeling to large-scale language models.
-
-7. **Retrieval, Memory, and Grounding**
-   Why standalone models are insufficient - and how external knowledge and memory improve reliability.
-
-8. **From Models to Agents**
-   The shift from prediction systems to goal-directed acting systems.
-
-9. **Multi-Agent and System-Level AI**
-   Coordination, decomposition, and emergent behavior in interacting agent systems.
-
-10. **Model Context Protocols, Orchestration, and Production Systems**
-    Architecture, coordination layers, and real-world deployment patterns.
-
-11. **Synthesis: Transcendence**
-    Forward-looking integration patterns and future trajectories.
+...
 
 Each chapter is explicitly interlinked to reveal:
 
