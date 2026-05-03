@@ -18,6 +18,13 @@ Lineage maps the intellectual DNA of AI. It traces how:
 - Concepts from mathematics, statistics, and engineering became prerequisites for later breakthroughs
 - Core abstractions survived even as implementations changed
 
+## Why This Project Exists
+
+AI is difficult to learn not because it is inherently complex,
+but because it is poorly structured.
+
+Lineage solves this by organizing AI as a causal system.
+
 This project does **not** attempt to catalog every school of thought, debate, or competing interpretation in AI. Early AI, in particular, contains conflicting definitions and frameworks. Rather than flattening those tensions into a neutral encyclopedia, Lineage takes a deliberate stance:
 
 - We acknowledge alternative interpretations.
