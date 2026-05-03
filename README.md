@@ -6,6 +6,8 @@
 
 ## What Is “Lineage” - and How It Differs from “History”
 
+**Lineage**: Open-Source AI System Architecture & Learning Framework.
+
 **Lineage** is not a timeline.
 It is an **opinionated causal reconstruction** of the intellectual chain that led to modern AI systems.
 
