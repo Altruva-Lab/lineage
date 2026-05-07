@@ -1,66 +1,91 @@
 {
-  "version": "1.0",
-  "name": "Lineage",
-  "description": "Open-source AI system architecture and learning framework focused on structured understanding of artificial intelligence systems, infrastructure, and verifiable lineage.",
-  "homepage": "https://github.com/Altruva-Labs",
-  "repository": "https://github.com/Altruva-Labs/lineage",
-  "licenses": [
-    "MIT"
-  ],
-  "creator": {
-    "name": "Abdulhakeem Muhammed",
+  "$schema": "https://fundingjson.org/schema/v1.1.0.json",
+  "version": "v1.0.0",
+  "entity": {
     "type": "individual",
-    "url": "https://github.com/ennas-de"
+    "role": "maintainer",
+    "name": "Abdulhakeem Muhammed",
+    "email": "your-email@example.com",
+    "phone": "",
+    "description": "Founder of Lineage and Altruva Labs, focused on open-source AI systems research, developer infrastructure, blockchain integration, and structured AI knowledge systems. Lineage is an initiative dedicated to making artificial intelligence systems more understandable, teachable, extensible, and verifiable through open infrastructure and public research.",
+    "webpageUrl": {
+      "url": "https://github.com/ennas-de",
+      "wellKnown": ""
+    }
   },
-  "organization": {
-    "name": "Altruva Labs",
-    "url": "https://github.com/Altruva-Labs"
-  },
-  "keywords": [
-    "artificial-intelligence",
-    "machine-learning",
-    "ai-systems",
-    "llm",
-    "education",
-    "research",
-    "open-source",
-    "blockchain",
-    "web3",
-    "systems-architecture",
-    "developer-tools",
-    "knowledge-infrastructure"
+  "projects": [
+    {
+      "guid": "lineage-framework",
+      "name": "Lineage",
+      "description": "Lineage is an open-source AI system architecture and learning framework designed to map artificial intelligence as a coherent and structured system. The project focuses on AI systems understanding, architecture mapping, educational infrastructure, verifiable lineage, and open tooling for next-generation AI development.",
+      "webpageUrl": {
+        "url": "https://github.com/Altruva-Labs/lineage"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/Altruva-Labs/lineage",
+        "wellKnown": "https://github.com/Altruva-Labs/lineage/blob/main/funding.json"
+      },
+      "licenses": [
+        "spdx:MIT"
+      ],
+      "tags": [
+        "artificial-intelligence",
+        "machine-learning",
+        "llm",
+        "open-source",
+        "research",
+        "blockchain",
+        "web3",
+        "developer-tools",
+        "systems-architecture",
+        "knowledge-infrastructure"
+      ]
+    }
   ],
   "funding": {
     "channels": [
       {
-        "guid": "github-profile",
-        "type": "github",
+        "guid": "github",
+        "type": "payment-provider",
         "address": "https://github.com/ennas-de",
-        "description": "Support ongoing open-source AI systems research and infrastructure development."
+        "description": "Support the ongoing development of open-source AI systems infrastructure and research."
       }
     ],
     "plans": [
       {
+        "guid": "lineage-development",
+        "status": "active",
         "name": "Open-Source AI Infrastructure Development",
+        "description": "Funding for AI systems research, architecture mapping, educational infrastructure, developer tooling, contributor onboarding, and open-source ecosystem development.",
         "amount": 45000,
         "currency": "USD",
         "frequency": "one-time",
-        "description": "Funding for AI systems research, educational infrastructure, developer tooling, documentation, and contributor onboarding."
+        "channels": [
+          "github"
+        ]
       },
       {
-        "name": "Compute and Research Support",
+        "guid": "compute-support",
+        "status": "active",
+        "name": "GPU Compute and Research Support",
+        "description": "Support for GPU compute, experimentation, simulations, AI analysis workflows, and infrastructure maintenance.",
         "amount": 10000,
         "currency": "USD",
         "frequency": "monthly",
-        "description": "Funding for GPU compute, experimentation, simulations, and open-source infrastructure maintenance."
+        "channels": [
+          "github"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "year": 2025,
+        "income": 0,
+        "expenses": 0,
+        "taxes": 0,
+        "currency": "USD",
+        "description": "Initial public infrastructure and open-source research phase."
       }
     ]
-  },
-  "projects": [
-    {
-      "name": "Lineage Framework",
-      "description": "Structured AI systems mapping and educational infrastructure.",
-      "repository": "https://github.com/Altruva-Labs/lineage"
-    }
-  ]
+  }
 }
