@@ -1,0 +1,75 @@
+{
+  "version": "1.0",
+  "name": "Lineage",
+  "description": "Open-source AI system architecture and learning framework focused on structured understanding of artificial intelligence systems, infrastructure, and verifiable lineage.",
+  "homepage": "https://github.com/Altruva-Labs",
+  "repository": "https://github.com/Altruva-Labs/lineage",
+  "licenses": [
+    "MIT"
+  ],
+  "creator": {
+    "name": "Abdulhakeem Muhammed",
+    "type": "individual",
+    "url": "https://github.com/ennas-de"
+  },
+  "organization": {
+    "name": "Altruva Labs",
+    "url": "https://github.com/Altruva-Labs"
+  },
+  "keywords": [
+    "artificial-intelligence",
+    "machine-learning",
+    "ai-systems",
+    "llm",
+    "education",
+    "research",
+    "open-source",
+    "blockchain",
+    "web3",
+    "systems-architecture",
+    "developer-tools",
+    "knowledge-infrastructure"
+  ],
+  "funding": {
+    "channels": [
+      {
+        "guid": "github-sponsors",
+        "type": "github",
+        "address": "https://github.com/sponsors/ennas-de",
+        "description": "Support ongoing open-source AI systems research and infrastructure development."
+      },
+      {
+        "guid": "github-profile",
+        "type": "other",
+        "address": "https://github.com/ennas-de",
+        "description": "Project maintainer GitHub profile."
+      }
+    ],
+    "plans": [
+      {
+        "name": "Open-Source AI Infrastructure Development",
+        "amount": 50000,
+        "currency": "USD",
+        "frequency": "one-time",
+        "description": "Funding for AI systems research, educational infrastructure, developer tooling, documentation, and contributor onboarding."
+      },
+      {
+        "name": "Compute and Research Support",
+        "amount": 10000,
+        "currency": "USD",
+        "frequency": "monthly",
+        "description": "Funding for GPU compute, experimentation, model analysis, simulations, and open-source infrastructure maintenance."
+      }
+    ],
+    "history": {
+      "description": "Lineage is an early-stage open-source initiative focused on building structured AI systems understanding and public educational infrastructure."
+    }
+  },
+  "projects": [
+    {
+      "name": "Lineage Framework",
+      "description": "Structured AI systems mapping and educational infrastructure.",
+      "repository": "https://github.com/Altruva-Labs/lineage"
+    }
+  ]
+}
