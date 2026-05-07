@@ -33,22 +33,16 @@
   "funding": {
     "channels": [
       {
-        "guid": "github-sponsors",
-        "type": "github",
-        "address": "https://github.com/sponsors/ennas-de",
-        "description": "Support ongoing open-source AI systems research and infrastructure development."
-      },
-      {
         "guid": "github-profile",
-        "type": "other",
+        "type": "github",
         "address": "https://github.com/ennas-de",
-        "description": "Project maintainer GitHub profile."
+        "description": "Support ongoing open-source AI systems research and infrastructure development."
       }
     ],
     "plans": [
       {
         "name": "Open-Source AI Infrastructure Development",
-        "amount": 50000,
+        "amount": 45000,
         "currency": "USD",
         "frequency": "one-time",
         "description": "Funding for AI systems research, educational infrastructure, developer tooling, documentation, and contributor onboarding."
@@ -58,12 +52,9 @@
         "amount": 10000,
         "currency": "USD",
         "frequency": "monthly",
-        "description": "Funding for GPU compute, experimentation, model analysis, simulations, and open-source infrastructure maintenance."
+        "description": "Funding for GPU compute, experimentation, simulations, and open-source infrastructure maintenance."
       }
-    ],
-    "history": {
-      "description": "Lineage is an early-stage open-source initiative focused on building structured AI systems understanding and public educational infrastructure."
-    }
+    ]
   },
   "projects": [
     {
