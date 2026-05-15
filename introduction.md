@@ -117,7 +117,10 @@ Instead of treating:
 - Machine Learning
 - Neural Networks
 - Large Language Models
-- Agentic Systems
+- Retrieval, Memory, and Grounding
+- Agents (Agentic Systems)
+- Multi-Agent System-Level thinking
+- Model Context Protocol,Orchestration, and Production Systems 
 
 as disconnected chapters, Lineage shows:
 
